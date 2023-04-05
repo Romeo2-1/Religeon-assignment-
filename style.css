@@ -1,6 +1,7 @@
 body {
   background-color: #f5f5fa; /* off white */
-  background-image: linear-gradient(to bottom, rgba(214, 236, 241, 60%), rgba(214, 236, 241, 60%)), url("https://github.com/EvanCagiannos/Religeon-assignment-/blob/main/religion%20proj.%20w%20evan%20(660%20%C3%97%20371%20px).jpg?raw=true"); /* small tint of blue and a background image */
+  background-image: linear-gradient(to bottom, rgba(214, 236, 241, 60%), rgba(214, 236, 241, 60%)), 
+    url("https://github.com/EvanCagiannos/Religeon-assignment-/blob/main/religion%20proj.%20w%20evan%20(660%20%C3%97%20371%20px).jpg?raw=true"); 
   background-size: cover;
   background-repeat: no-repeat;
 }
