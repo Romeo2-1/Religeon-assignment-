@@ -1,0 +1,11 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "indentation": 2,
+    "color-no-invalid-hex": true,
+    "declaration-block-trailing-semicolon": "always",
+    "block-no-empty": true,
+    "selector-type-no-unknown": true,
+    "declaration-no-important": true
+  }
+}
