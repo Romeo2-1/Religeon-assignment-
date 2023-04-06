@@ -1,18 +1,7 @@
 .selector {
   background-image: linear-gradient(to bottom,
-    rgba(214, 236, 241, 0.6),
-    rgba(214, 236, 241, 0.6)
-  );
-  color: rgb(0, 0, 0);
-  font-size: 16px;
-  margin: 0 auto;
-  padding: 10px;
-}
-
-.selector {
-  background-image: linear-gradient(to bottom,
-    rgba(214, 236, 241, 0.6),
-    rgba(214, 236, 241, 0.6)
+    rgba(214, 236, 241, 60%),
+    rgba(214, 236, 241, 60%)
   );
   color: #000;
   font-size: 16px;
@@ -22,25 +11,36 @@
 
 .selector {
   background-image: linear-gradient(to bottom,
-    rgba(214, 236, 241, 0.6),
-    rgba(214, 236, 241, 0.6)
+    rgba(214, 236, 241, 60%),
+    rgba(214, 236, 241, 60%)
   );
   color: #000;
   font-size: 16px;
   margin: 0 auto;
   padding: 10px;
-  border-radius: 5px;
 }
 
 .selector {
   background-image: linear-gradient(to bottom,
-    rgba(214, 236, 241, 0.6),
-    rgba(214, 236, 241, 0.6)
+    rgba(214, 236, 241, 60%),
+    rgba(214, 236, 241, 60%)
   );
   color: #000;
   font-size: 16px;
   margin: 0 auto;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.selector {
+  background-image: linear-gradient(to bottom,
+    rgba(214, 236, 241, 60%),
+    rgba(214, 236, 241, 60%)
+  );
+  color: #000;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 50%);
 }
